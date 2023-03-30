@@ -54,6 +54,7 @@ body {
   border: none;
   padding: 9px 0;
   border-radius: 4px;
+  width: 130px;
 }
 .search-result {
   display: flex;
@@ -136,6 +137,7 @@ body {
 }
 .movie-card .left img {
   height: 250px;
+  width: 175px;
 }
 .movie-card .right {
   position: relative;
